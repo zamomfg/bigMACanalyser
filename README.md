@@ -1,8 +1,8 @@
-# (BIG) MAC-Analyser
+# (BIG) MAC-Analyser 🍔
 
 A program that provides information about MAC-Addresses.
 
-Orgnization, Country, Address, U/L bit, I/G bit
+Organization, Country, Address, U/L bit, I/G bit
 
 inspired by this blogpost: https://isc.sans.edu/diary/Whats+Normal+MAC+Addresses/30310/
 
