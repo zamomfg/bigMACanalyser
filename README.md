@@ -14,4 +14,4 @@ Allow checking addresses that are in a reverse order as found in networking prot
 
 Provides flags to do different actions like downloading the mac-address file again or have stricter checks on a complete mac-address as input
 
-Parse mac-address file after downloading and storing it as a cvs file, so it can be used outside this program easily
+Parse mac-address file after downloading and storing it as a csv file, so it can be used outside this program easily
